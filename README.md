@@ -1,5 +1,5 @@
 # Wildfire Geospatial Analysis Project
-
+name: Haochen Miao
 ## Overview
 This project focuses on the exploration and analysis of wildfire occurrences using Python geospatial libraries. The analysis is divided into two main parts, with each part addressing different facets of wildfire data handling, analysis, and visualization.
 
